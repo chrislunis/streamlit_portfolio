@@ -22,7 +22,7 @@ def local_css(file):
 local_css("style/style.css")
 # Load Assets
 lottie_coding = load_lottieurl("https://lottie.host/3f8f1b43-4fa9-454c-9a45-b890ba3ea52e/Fh7Ed7s0rY.json")
-img_projects = Image.open("G:/basicapp/images/projects.jpg")
+img_projects = Image.open("images/projects.jpg")
 # Header Section
 with st.container():
     st.subheader("Hi, I am Chris Lunis :wave:")
